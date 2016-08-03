@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <word id="noun001">
+        <english>butterfly</english>
+        <serbian>leptir</serbian>
+        <german>schmetterling</german>
+        <russian>бабочка</russian>
+        <chinese>蝴蝶</chinese>
+    </word>
+    <word id="noun002">
+        <english>sun</english>
+        <serbian>sunce</serbian>
+        <german>sonne</german>
+        <russian>солнце</russian>
+        <chinese>太陽</chinese>
+    </word>
+    <word id="noun003">
+        <english>happiness</english>
+        <serbian>sreca</serbian>
+        <german>glück</german>
+        <russian>счастье</russian>
+        <chinese>幸福</chinese>
+    </word>
+    <word id="noun004">
+        <english>strawberry</english>
+        <serbian>jagoda</serbian>
+        <german>erdbeere</german>
+        <russian>клубника</russian>
+        <chinese>草莓</chinese>
+    </word>
+    <word id="noun005">
+        <english>watermelon</english>
+        <serbian>lubenica</serbian>
+        <german>wassermelone</german>
+        <russian>арбуз</russian>
+        <chinese>西瓜</chinese>
+    </word>
+    <word id="noun006">
+        <english>raspberry</english>
+        <serbian>malina</serbian>
+        <german>himbeere</german>
+        <russian>малина</russian>
+        <chinese>覆盆子</chinese>
+    </word>
+    <word id="noun007">
+        <english>blackberry</english>
+        <serbian>kupina</serbian>
+        <german>brombeere</german>
+        <russian>ежевика</russian>
+        <chinese>黑莓</chinese>
+    </word>
+    <word id="noun008">
+        <english>bilberry</english>
+        <serbian>borovnica</serbian>
+        <german>heidelbeere</german>
+        <russian>черника</russian>
+        <chinese>覆盆子</chinese>
+    </word>
+    <word id="verb001">
+        <english>swim</english>
+        <serbian>plivati</serbian>
+        <german>schwimmen</german>
+        <russian>плавать</russian>
+        <chinese>游泳</chinese>
+    </word>
+    <word id="verb002">
+        <english>run</english>
+        <serbian>trcati</serbian>
+        <german>lauf</german>
+        <russian>бег</russian>
+        <chinese>跑</chinese>
+    </word>
+    <word id="verb003">
+        <english>sing</english>
+        <serbian>pevati</serbian>
+        <german>singen</german>
+        <russian>петь</russian>
+        <chinese>唱</chinese>
+    </word>
+    <word id="adj001">
+        <english>quickly</english>
+        <serbian>brzo</serbian>
+        <german>schnell</german>
+        <russian>быстро</russian>
+        <chinese>很快</chinese>
+    </word>
+    <word id="adj002">
+        <english>accurately</english>
+        <serbian>precizno</serbian>
+        <german>genau</german>
+        <russian>точно</russian>
+        <chinese>準確</chinese>
+    </word>
+    <word id="adv001">
+        <english>fast</english>
+        <serbian>brz</serbian>
+        <german>schnell</german>
+        <russian>быстро</russian>
+        <chinese>快速</chinese>
+    </word>
+    <word id="adv002">
+        <english>precise</english>
+        <serbian>precizan</serbian>
+        <german>präzise</german>
+        <russian>точный</russian>
+        <chinese>精確</chinese>
+    </word>
+</dictionary>
